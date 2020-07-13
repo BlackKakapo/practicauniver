@@ -23,7 +23,7 @@ And of course the main idea was to calculate the:
    - Requirements
 
 #### Simple calcualtion
-![Simple calcualtion]() 
+![Simple calcualtion](https://github.com/BlackKakapo/practicauniver/blob/master/src/main/resources/img/Opera%20%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_2020-07-13_161045_practicauniver.herokuapp.com.png?raw=true) 
    
 And for advance, you can indicate:
 - Indicate your scope (Lose / Gain weight)
@@ -32,7 +32,7 @@ And for advance, you can indicate:
 - How much fats do you want?
 
 #### Advance calcualtion
-![Advance calcualtion]()
+![Advance calcualtion](https://github.com/BlackKakapo/practicauniver/blob/master/src/main/resources/img/Opera%20%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_2020-07-13_161838_practicauniver.herokuapp.com.png?raw=true)
 
 ---
 
